@@ -1,4 +1,16 @@
-img{
-	display: block;
-	margin:5px;
+
+div{
+	background-color: black;
+	color:white;
+	width: 830px;
+	padding-left:5px;
+}
+div img{
+	width: 400px;
+	height: 300px;
+	border:5px ridge grey;
+}
+
+h1{
+	margin-bottom: 20px;
 }
